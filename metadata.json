@@ -1,0 +1,5 @@
+{
+  "name": "PersonaVoice TTS",
+  "description": "Expressive text-to-speech with realistic character voices and emotional nuances using Gemini AI.",
+  "requestFramePermissions": []
+}
